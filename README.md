@@ -1,5 +1,7 @@
 # exploraTor
 
+![Project screenshot](https://raw.githubusercontent.com/zielinsm/explorator/master/capture.png)
+
 React-based app to help users find and dicover Tor nodes.
 **[Live demo](https://explorator.zielinsk.im/)** hosted on Netlify.
 
@@ -16,7 +18,7 @@ React-based app to help users find and dicover Tor nodes.
 #### Usage and development
 exploraTor was bootstraped using [create-react-app](https://www.npmjs.com/package/create-react-app).
 
-There are two main scripts you want to use when either building or further developing the project. To compile the app and create a production build, use `npm run build`. Starting a development server is as simple as typing `npm start`. For more information you should refer to create-react-app's *[Usage Guide](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)*.
+There are two main scripts you want to use when either building or further developing the project. To compile the app and create a production build, use `npm run build`. Starting a development server is as simple as typing `npm start`. Tests can be triggered using `npm test`. For more information you should refer to create-react-app's *[Usage Guide](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)*.
 
 ---
 
