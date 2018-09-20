@@ -3,6 +3,7 @@
 ![Project screenshot](https://raw.githubusercontent.com/zielinsm/explorator/master/capture.png)
 
 React-based app to help users find and dicover Tor nodes.
+
 **[Live demo](https://explorator.zielinsk.im/)** hosted on Netlify.
 
 ---
