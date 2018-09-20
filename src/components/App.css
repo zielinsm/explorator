@@ -1,0 +1,13 @@
+.App {
+  min-height: 100%;
+}
+
+.App__container {
+  min-height: 100vh;
+}
+
+.App__content {
+  margin-left: 5%;
+  margin-right: 5%;
+  max-width: 600px;
+}

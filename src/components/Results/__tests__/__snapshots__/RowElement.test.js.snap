@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RowElement component: snapshot matches 1`] = `
+<tr
+  className="RowElement"
+  onClick={[Function]}
+>
+  <td
+    className=""
+  >
+    mockRelay
+  </td>
+  <td
+    className=""
+  >
+    000.000.000.000:9001
+  </td>
+  <td
+    className=""
+  >
+    LONGFINGERPRINT
+  </td>
+  <td
+    className=""
+  >
+    <div
+      className="ui green label"
+      onClick={[Function]}
+    >
+      Running
+    </div>
+  </td>
+</tr>
+`;

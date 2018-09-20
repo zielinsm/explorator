@@ -1,0 +1,11 @@
+.Footer {
+    width: 100%;
+    margin-top: 0.25em !important;
+    margin-bottom: 0.25em !important;
+    text-align: center;
+    clear: both;
+}
+
+.Footer__disclaimer {
+    font-size: 0.85em;
+}

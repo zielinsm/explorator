@@ -1,0 +1,108 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TableElement component: snapshot matches 1`] = `
+<div
+  className="TableElement"
+>
+  <table
+    className="ui selectable table"
+  >
+    <thead
+      className=""
+    >
+      <tr
+        className=""
+      >
+        <th
+          className="HeaderCell"
+          onClick={[Function]}
+        >
+          Name
+        </th>
+        <th
+          className="HeaderCell"
+          onClick={[Function]}
+        >
+          IP
+        </th>
+        <th
+          className="HeaderCell"
+          onClick={[Function]}
+        >
+          Fingerprint
+        </th>
+        <th
+          className="HeaderCell"
+          onClick={[Function]}
+        >
+          Status
+        </th>
+      </tr>
+    </thead>
+    <tbody
+      className=""
+    >
+      <tr
+        className="RowElement"
+        onClick={[Function]}
+      >
+        <td
+          className=""
+        >
+          mockNode
+        </td>
+        <td
+          className=""
+        >
+          0
+        </td>
+        <td
+          className=""
+        >
+          MOCKNODE
+        </td>
+        <td
+          className=""
+        >
+          <div
+            className="ui green label"
+            onClick={[Function]}
+          >
+            Running
+          </div>
+        </td>
+      </tr>
+      <tr
+        className="RowElement"
+        onClick={[Function]}
+      >
+        <td
+          className=""
+        >
+          mockRelay
+        </td>
+        <td
+          className=""
+        >
+          0
+        </td>
+        <td
+          className=""
+        >
+          MOCKRELAY
+        </td>
+        <td
+          className=""
+        >
+          <div
+            className="ui green label"
+            onClick={[Function]}
+          >
+            Running
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

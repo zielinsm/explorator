@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBar component: snapshot matches 1`] = `
+<div
+  className="SearchBar"
+>
+  <div
+    className="ui fluid icon input"
+  >
+    <input
+      disabled={undefined}
+      onChange={[Function]}
+      onKeyPress={[Function]}
+      placeholder="Search..."
+      tabIndex={undefined}
+      type="text"
+    />
+    <i
+      aria-hidden="true"
+      className="search circular inverted link icon"
+      onClick={[Function]}
+    />
+  </div>
+</div>
+`;

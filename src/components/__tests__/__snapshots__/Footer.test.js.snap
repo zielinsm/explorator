@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer component: snapshot matches 1`] = `
+<div
+  className="Footer"
+>
+  <span
+    className="Footer__disclaimer"
+  >
+    The "Tor" wordmark is a registered trademark of the Tor Project.
+  </span>
+</div>
+`;

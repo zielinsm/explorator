@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Results container: snapshot matches 1`] = `
+<div>
+  <div
+    className="ui breadcrumb Node__Breadcrumbs"
+  >
+    <div
+      className="section"
+      href={undefined}
+      onClick={[Function]}
+    >
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        Search
+      </a>
+    </div>
+    <div
+      className="divider"
+    >
+      /
+    </div>
+    <div
+      className="active section"
+      href={undefined}
+      onClick={[Function]}
+    >
+      Results
+    </div>
+  </div>
+  <h3
+    className="ui top attached header Results__Header"
+  >
+    Showing results for "
+    mockTerm
+    "
+  </h3>
+  <div
+    className="ui attached segment"
+  >
+    <div
+      className="TableElement"
+    >
+      <table
+        className="ui selectable table"
+      >
+        <thead
+          className=""
+        >
+          <tr
+            className=""
+          >
+            <th
+              className="HeaderCell"
+              onClick={[Function]}
+            >
+              Name
+            </th>
+            <th
+              className="HeaderCell"
+              onClick={[Function]}
+            >
+              IP
+            </th>
+            <th
+              className="HeaderCell"
+              onClick={[Function]}
+            >
+              Fingerprint
+            </th>
+            <th
+              className="HeaderCell"
+              onClick={[Function]}
+            >
+              Status
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          className=""
+        >
+          <tr
+            className="RowElement"
+            onClick={[Function]}
+          >
+            <td
+              className=""
+            >
+              mockNode
+            </td>
+            <td
+              className=""
+            >
+              0
+            </td>
+            <td
+              className=""
+            >
+              MOCKNODE
+            </td>
+            <td
+              className=""
+            >
+              <div
+                className="ui green label"
+                onClick={[Function]}
+              >
+                Running
+              </div>
+            </td>
+          </tr>
+          <tr
+            className="RowElement"
+            onClick={[Function]}
+          >
+            <td
+              className=""
+            >
+              mockRelay
+            </td>
+            <td
+              className=""
+            >
+              0
+            </td>
+            <td
+              className=""
+            >
+              MOCKRELAY
+            </td>
+            <td
+              className=""
+            >
+              <div
+                className="ui green label"
+                onClick={[Function]}
+              >
+                Running
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+`;

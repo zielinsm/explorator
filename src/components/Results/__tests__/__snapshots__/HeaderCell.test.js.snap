@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tab component: snapshot matches 1`] = `
+<th
+  className="HeaderCell"
+  onClick={[Function]}
+>
+  mockCell
+</th>
+`;

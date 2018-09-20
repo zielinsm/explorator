@@ -1,0 +1,10 @@
+.Tab__row {
+    padding-bottom: 1em;
+}
+
+.Tab__field {
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    max-height: 100px;
+    overflow: auto;
+}

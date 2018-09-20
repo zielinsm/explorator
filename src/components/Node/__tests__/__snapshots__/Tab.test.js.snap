@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tab component: snapshot matches 1`] = `
+Array [
+  <div
+    className="row Tab__row"
+>
+    <div
+        className="ui sub header"
+    >
+        mockLabel
+    </div>
+    <span
+        className="Tab__field"
+    >
+        mockValue
+    </span>
+</div>,
+  <div
+    className="row Tab__row"
+>
+    <div
+        className="ui sub header"
+    >
+        someLabel
+    </div>
+    <span
+        className="Tab__field"
+    >
+        someLabel
+    </span>
+</div>,
+]
+`;

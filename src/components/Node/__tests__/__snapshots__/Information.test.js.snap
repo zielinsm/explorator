@@ -1,0 +1,174 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Information component: snapshot matches 1`] = `
+<div>
+  <h3
+    className="ui header Information__Header"
+  >
+    Nickname
+    <div
+      className="sub header"
+    >
+      FINGERPRINT
+    </div>
+  </h3>
+  <div
+    className="ui tiny label"
+    onClick={[Function]}
+  >
+    Mock
+  </div>
+  <div
+    className="ui tiny label"
+    onClick={[Function]}
+  >
+    Running
+  </div>
+  <div
+    className="ui divider"
+  />
+  <div>
+    <div
+      className="ui secondary menu"
+    >
+      <a
+        className="active item"
+        onClick={[Function]}
+      >
+        Basic
+      </a>
+      <a
+        className="item"
+        onClick={[Function]}
+      >
+        Bandwidth
+      </a>
+      <a
+        className="item"
+        onClick={[Function]}
+      >
+        Policies
+      </a>
+      <a
+        className="item"
+        onClick={[Function]}
+      >
+        Family
+      </a>
+    </div>
+    <div
+      className="row Tab__row"
+    >
+      <div
+        className="ui sub header"
+      >
+        OR Addresses
+      </div>
+      <span
+        className="Tab__field"
+      >
+        000.000.000.000:9000 
+        
+      </span>
+    </div>
+    <div
+      className="row Tab__row"
+    >
+      <div
+        className="ui sub header"
+      >
+        Directory Address
+      </div>
+      <span
+        className="Tab__field"
+      >
+        000.000.000.000:9001
+      </span>
+    </div>
+    <div
+      className="row Tab__row"
+    >
+      <div
+        className="ui sub header"
+      >
+        Hostnames
+      </div>
+      <span
+        className="Tab__field"
+      >
+        mock-relay.net
+      </span>
+    </div>
+    <div
+      className="row Tab__row"
+    >
+      <div
+        className="ui sub header"
+      >
+        Country
+      </div>
+      <span
+        className="Tab__field"
+      >
+        Mock
+      </span>
+    </div>
+    <div
+      className="row Tab__row"
+    >
+      <div
+        className="ui sub header"
+      >
+        AS Name
+      </div>
+      <span
+        className="Tab__field"
+      >
+        Mock Networks
+      </span>
+    </div>
+    <div
+      className="row Tab__row"
+    >
+      <div
+        className="ui sub header"
+      >
+        Consensus weight
+      </div>
+      <span
+        className="Tab__field"
+      >
+        10000
+      </span>
+    </div>
+    <div
+      className="row Tab__row"
+    >
+      <div
+        className="ui sub header"
+      >
+        Platform
+      </div>
+      <span
+        className="Tab__field"
+      >
+        Tor 0.3.2.10 on Mock
+      </span>
+    </div>
+    <div
+      className="row Tab__row"
+    >
+      <div
+        className="ui sub header"
+      >
+        Contact
+      </div>
+      <span
+        className="Tab__field"
+      >
+        Contact
+      </span>
+    </div>
+  </div>
+</div>
+`;

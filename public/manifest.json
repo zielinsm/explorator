@@ -1,0 +1,8 @@
+{
+  "short_name": "exploraTor",
+  "name": "Find and discover Tor nodes.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
