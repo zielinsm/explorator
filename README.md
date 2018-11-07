@@ -25,6 +25,6 @@ There are two main scripts you want to use when either building or further devel
 
 #### Notes
 
-I wanted to create a fully functional, similar project to Tor's [relay search](https://metrics.torproject.org/rs.html). exploraTor is not meant to compete or target to replace it. 
+I wanted to create a fully functional, similar project to Tor's [relay search](https://metrics.torproject.org/rs.html).
 
 There are still features I want to add to the project like bandwidth/consensus weight graphs. If you have any ideas, please don't hesitate to open an issue or send in a PR.
