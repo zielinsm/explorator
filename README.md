@@ -11,9 +11,8 @@ React-based app to help users find and dicover Tor nodes.
 #### Features and details
   - The app is using [React](https://reactjs.org/), [Redux](https://redux.js.org/) and [React-Router](https://www.npmjs.com/package/react-router) (shareable links to results and particular nodes!)
   - Unit testing implemented using [Jest](https://jestjs.io/) and [Jest-Enzyme](https://www.npmjs.com/package/jest-enzyme)
-  - The UI is built around [Semantic UI React](https://react.semantic-ui.com/)
-  - Should fit most resolutions
-  - Friendly navigation
+  - UI built around [Semantic UI React](https://react.semantic-ui.com/)
+  - Mobile-friendly
   - Sortable results
 
 #### Usage and development
