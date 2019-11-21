@@ -4,8 +4,6 @@
 
 React-based app to help users find and dicover Tor nodes.
 
-**[Live demo](https://explorator.zielinsk.im/)** hosted on Netlify.
-
 ---
 
 #### Features and details
